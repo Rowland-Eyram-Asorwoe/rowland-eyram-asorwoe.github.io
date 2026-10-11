@@ -1,0 +1,10 @@
+{
+  "name": "rowland-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node --check app.js && node --check model.js",
+    "test": "node --test tests/model.test.js"
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rowland-eyram-asorwoe.github.io/sitemap.xml
